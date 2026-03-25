@@ -66,8 +66,11 @@ Project folder Structure
 
 fooddel/
 ├── admin/          # Admin Dashboard (Vite + React)
+
 ├── frontend/       # Customer Interface (Vite + React)
+
 ├── backend/        # RESTful API (Node, Express, MongoDB)
+
 └── README.md       # Project Documentation
 
 
