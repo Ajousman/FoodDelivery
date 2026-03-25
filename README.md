@@ -48,21 +48,28 @@
 npm install
 # Create a .env file with: MONGO_URI, STRIPE_SECRET_KEY, JWT_SECRET
 npm start
+
 <div>
 ###```Frontend & Admin Setup
 # For Frontend
+
 cd frontend && npm install && npm run dev
+
 </div>
 # For Admin
+
 cd admin && npm install && npm run dev
 
 Project folder Structure
+
 *** ``
+
 fooddel/
 ├── admin/          # Admin Dashboard (Vite + React)
 ├── frontend/       # Customer Interface (Vite + React)
 ├── backend/        # RESTful API (Node, Express, MongoDB)
 └── README.md       # Project Documentation
+
 
 ```<div align="center">
 <p><b>Finally made with ABDU</b></p>
